@@ -1,11 +1,19 @@
 # Hello there! I'm Zavora Roman
 <br />
-<br />
 
 ![](https://komarev.com/ghpvc/?username=zavorateam)
-![](https://img.shields.io/github/followers/zavorateam?style=social)
+![](https://img.shields.io/github/followers/zavorateam?style=flat)
+![](https://img.shields.io/github/last-commit/zavorateam/zavorateam/master?label=Last%20updated&style=flat)
+<details>
+  <summary>Statistics</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavorateam&langs_count=8&layout=compact" />
+   <br />
+   <br />
+   <br />
+   <br />
+   <br />
+</details>
 
-<br />
 <br />
 
 ## I've been interested in programming since childhood and to this day
@@ -22,13 +30,16 @@
 
 <br />
 <br />
+
 ### Stack of technologies:
+
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
