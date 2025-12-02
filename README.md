@@ -18,9 +18,9 @@
 
 ## I've been interested in programming since childhood and to this day
 ### My received technical education:
-- **Information Security Specialist** (Moscow College of Communications No. 54)
-- **Computer Operator** (Moscow College of Communications No. 34)
-- **Draftsman Engineer** (Moscow Automobile and Road Construction Institute)
+- **Information Security Specialist** (Moscow College of Communications No. 54 ("КС54")
+- **Computer Operator** (Moscow College of Communications No. 34 "КС №32")
+- **Draftsman Engineer** (Moscow Automobile and Road Construction Institute "МАДИ")
 
 <br />
 <br />
@@ -48,3 +48,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/arduino-%23121011.svg?style=for-the-badge&logo=arduino&logoColor=1147f4)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![FPGA](https://img.shields.io/badge/fpga-%23121011.svg?style=for-the-badge&logo=linux&logoColor=1147f4)
