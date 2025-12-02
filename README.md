@@ -4,15 +4,6 @@
 ![](https://komarev.com/ghpvc/?username=zavorateam)
 ![](https://img.shields.io/github/followers/zavorateam?style=flat)
 ![](https://img.shields.io/github/last-commit/zavorateam/zavorateam/main?label=Last%20updated&style=flat)
-<details>
-  <summary>Statistics</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavorateam&langs_count=8&layout=compact" />
-   <br />
-   <br />
-   <br />
-   <br />
-   <br />
-</details>
 
 <br />
 
