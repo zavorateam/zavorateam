@@ -10,16 +10,14 @@
 ## I've been interested in programming since childhood and to this day
 ### My received technical education:
 - **Information Security Specialist** (Moscow College of Communications No. 54 ("КС54")
-- **Computer Operator** (Moscow College of Communications No. 34 "КС №32")
+- **Computer Operator** (Moscow College of Communications No. 34 "КС32")
 - **Draftsman Engineer** (Moscow Automobile and Road Construction Institute "МАДИ")
 
-<br />
 <br />
 
 ### Contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zavorateam)
 
-<br />
 <br />
 
 ### Stack of technologies:
